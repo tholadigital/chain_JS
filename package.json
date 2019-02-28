@@ -1,0 +1,15 @@
+{
+  "name": "nodechain",
+  "version": "1.0.0",
+  "description": "javascript blockchain",
+  "main": "chain_js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sha256": "^0.2.0"
+  }
+}
